@@ -1,0 +1,41 @@
+/* For the Buttons */
+
+.btn-group {
+    margin: 10px 10px 10px 10px;
+}
+
+.pet-button {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: black;
+}
+.pet-button:hover {
+    font-weight: bold;
+}
+
+img {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+/*for input*/
+input {
+    margin-bottom: 5px;
+    
+}
+
+#add-pet {
+    background-color: skyblue;
+    color: black;
+}
+
+#add-pet:hover {
+    font-weight: bold;
+}
+
+/*For GIF*/
+.populateImage {
+    float: left;
+}
+
